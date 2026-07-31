@@ -30,10 +30,8 @@ Each figure contains **four panels**, as described in the paper:
 
 ## 📂 Repository Contents
 
-- 🗺️ Figures for the 20 Italian regions
-- 📊 Results for the **MA04** hazard model
-- 🌋 Results for the **ValentiniEtAl2017** hazard model
-- 📖 Supplementary material accompanying the paper
+- 🗺️ Figures for the 20 Italian regions given the **MA04** hazard model
+- 📊 Figures for the 20 Italian regions given the **ValentiniEtAl2017** hazard model
 
 ## 📚 Related Publication
 
