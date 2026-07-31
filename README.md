@@ -14,8 +14,8 @@ The repository presents the expected uncertainty distributions for each of the *
 
 The analyses were performed using two alternative seismic hazard models:
 
-- 🟦 **MA04** – Area-source model
-- 🟥 **ValentiniEtAl2017** – Fault-based + Smoothed Seismicity model
+- 🟦 **[MA04]** – Area-source model
+- 🟥 **[ValentiniEtAl2017]** – Fault-based + Smoothed Seismicity model
 
 ## 🖼️ Figures
 
