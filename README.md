@@ -17,6 +17,11 @@ The analyses were performed using two alternative seismic hazard models:
 - 🟦 Modified **[MA04](https://github.com/SantiMon1417/Epistemic-uncertainty-at-regional-level-in-Italy/tree/main/MA04)** – Area-source model [^1]          
 - 🟥 Modified **[ValentiniEtAl2017](https://github.com/SantiMon1417/Epistemic-uncertainty-at-regional-level-in-Italy/tree/main/ValentiniEtAl2017)** – Fault-based + Smoothed Seismicity model [^2]
 
+## 📂 Repository Contents
+
+- 🗺️ Figures for the 20 Italian regions given the **MA04** hazard model
+- 📊 Figures for the 20 Italian regions given the **ValentiniEtAl2017** hazard model
+
 ## 🖼️ Figures
 
 Each figure contains **four panels**, as described in the paper:
@@ -27,11 +32,6 @@ Each figure contains **four panels**, as described in the paper:
 | 📈 **(b)** | Stacked plot showing the relative contribution of each source of uncertainty |
 | 🎯 **(c)** | Uncertainties normalized by the maximum branch-set dispersion (max σᵢ) |
 | 📐 **(d)** | Uncertainties normalized by the total epistemic uncertainty (σ<sub>Total</sub>) |
-
-## 📂 Repository Contents
-
-- 🗺️ Figures for the 20 Italian regions given the **MA04** hazard model
-- 📊 Figures for the 20 Italian regions given the **ValentiniEtAl2017** hazard model
 
 ## 📚 Related Publication
 
