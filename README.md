@@ -7,6 +7,7 @@ As a supplementary repository to our paper "Epistemic uncertainty in hazard mode
 As explained in our paper, we included the analyses by using an area sources model (MA04), and a fault-based+smoothed seismicity model (ValentiniEtAl2017). 
 
 ## In every figure we have 4 different panels described ni our paper. 
+
 ##           Every panel presents:
 
   a) Dispersion (σ) given each source of uncertainty
