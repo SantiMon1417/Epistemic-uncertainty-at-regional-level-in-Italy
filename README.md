@@ -14,7 +14,7 @@ The repository presents the expected uncertainty distributions for each of the *
 
 The analyses were performed using two alternative seismic hazard models:
 
-- 🟦 **[MA04](https://github.com/SantiMon1417/Epistemic-uncertainty-at-regional-level-in-Italy/tree/main/MA04)** – Area-source model [^1]
+- 🟦 Modified **[MA04](https://github.com/SantiMon1417/Epistemic-uncertainty-at-regional-level-in-Italy/tree/main/MA04)** – Area-source model [^1]          
 - 🟥 **[ValentiniEtAl2017](https://github.com/SantiMon1417/Epistemic-uncertainty-at-regional-level-in-Italy/tree/main/ValentiniEtAl2017)** – Fault-based + Smoothed Seismicity model [^2]
 
 ## 🖼️ Figures
