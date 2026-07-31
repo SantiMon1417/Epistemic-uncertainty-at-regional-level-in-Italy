@@ -1,23 +1,42 @@
-# Epistemic-uncertainty-at-regional-level-in-Italy
+# 🌍 Epistemic Uncertainty at Regional Level in Italy
 
-This repository contains the figures to explore the impact of epistemic uncertainties in hazard modeling on risk metrics.
+## 📖 Overview
 
-As a supplementary repository to our paper 📚 
-[Epistemic uncertainty in hazard modeling: a risk perspective at regional scale], we presented the figures with the with the expected dispersions by each of the 20 italian regions.
+This repository contains the figures used to explore the impact of **epistemic uncertainties in seismic hazard modeling** on regional seismic risk metrics across Italy.
 
-As explained in our paper, we included the analyses by using an area sources model (MA04), and a fault-based+smoothed seismicity model (ValentiniEtAl2017). 
+It serves as the supplementary material for our paper:
 
-## ✨ In every figure we have 4 different panels described ni our paper. 
+> 📚 **Epistemic Uncertainty in Hazard Modeling: A Risk Perspective at Regional Scale**
 
-Every panel presents:
+The repository presents the expected uncertainty distributions for each of the **20 Italian regions**.
 
-  📍 a) Dispersion (σ) given each source of uncertainty
-  
-  📍 b) Stack plot showing the relative contributions of different sources of uncertainty
-  
-  📍 c) Uncertainties normalized by the max σ<sub>i</sub>
-  
-  📍 d) Uncertainties normalized by σ<sub>Total</sub>
+## 🏗️ Hazard Models
 
+The analyses were performed using two alternative seismic hazard models:
+
+- 🟦 **MA04** – Area-source model
+- 🟥 **ValentiniEtAl2017** – Fault-based + Smoothed Seismicity model
+
+## 🖼️ Figures
+
+Each figure contains **four panels**, as described in the paper:
+
+| Panel | Description |
+|-------|-------------|
+| 📊 **(a)** | Dispersion (σ) associated with each source of epistemic uncertainty |
+| 📈 **(b)** | Stacked plot showing the relative contribution of each source of uncertainty |
+| 🎯 **(c)** | Uncertainties normalized by the maximum branch-set dispersion (max σᵢ) |
+| 📐 **(d)** | Uncertainties normalized by the total epistemic uncertainty (σ<sub>Total</sub>) |
+
+## 📂 Repository Contents
+
+- 🗺️ Figures for the 20 Italian regions
+- 📊 Results for the **MA04** hazard model
+- 🌋 Results for the **ValentiniEtAl2017** hazard model
+- 📖 Supplementary material accompanying the paper
+
+## 📚 Related Publication
+
+If you use these figures or find this repository useful, please consider citing our paper.
 
 
