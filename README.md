@@ -8,7 +8,7 @@ As explained in our paper, we included the analyses by using an area sources mod
 
 ## In every figure we have 4 different panels described ni our paper. 
 
-##           Every panel presents:
+Every panel presents:
 
   a) Dispersion (σ) given each source of uncertainty
   
