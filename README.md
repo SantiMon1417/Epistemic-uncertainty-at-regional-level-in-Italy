@@ -39,6 +39,6 @@ If you use these figures or find this repository useful, please consider citing 
 
 ## References:
 
-[^1] Visini F, Meletti C, Rovida A, et al (2022) An updated area-source seismogenic model (MA4) for seismic hazard of Italy. Nat Hazards Earth Syst Sci 22:2807–2827. https://doi.org/10.5194/nhess-22-2807-2022
+[^1]: Visini F, Meletti C, Rovida A, et al (2022) An updated area-source seismogenic model (MA4) for seismic hazard of Italy. Nat Hazards Earth Syst Sci 22:2807–2827. https://doi.org/10.5194/nhess-22-2807-2022
 
-[^2] Valentini A, Visini F, Pace B (2017) Integrating faults and past earthquakes into a probabilistic seismic hazard model for peninsular Italy. Nat Hazards Earth Syst Sci 17:2017–2039. https://doi.org/10.5194/nhess-17-2017-2017
+[^2]: Valentini A, Visini F, Pace B (2017) Integrating faults and past earthquakes into a probabilistic seismic hazard model for peninsular Italy. Nat Hazards Earth Syst Sci 17:2017–2039. https://doi.org/10.5194/nhess-17-2017-2017
