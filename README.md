@@ -37,7 +37,7 @@ Each figure contains **four panels**, as described in the paper:
 
 If you use these figures or find this repository useful, please consider citing our work.
 
-- 🌍🗣️ Montejo J., Silva V., Pace B. (2026) Influence of sources of epistemic uncertainties in hazard modeling on risk assessment: a regional assessment in Italy, EGU General Assembly 2026, Vienna, Austria. [https://doi.org/10.5194/nhess-22-2807-2022](https://doi.org/10.5194/egusphere-egu26-3229, 2026)
+- 🌍🗣️ Montejo J., Silva V., Pace B. (2026) Influence of sources of epistemic uncertainties in hazard modeling on risk assessment: a regional assessment in Italy, EGU General Assembly 2026, Vienna, Austria. [https://doi.org/10.5194/nhess-22-2807-2022](https://doi.org/10.5194/egusphere-egu26-3229, 2026](https://doi.org/10.5194/nhess-22-2807-2022)
 
 - 📄 Montejo J., Silva V., Pace B. (2026) Epistemic uncertainty in hazard modeling: a risk perspective at regional scale (In process) 
 
