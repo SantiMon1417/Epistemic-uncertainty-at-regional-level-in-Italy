@@ -1,4 +1,4 @@
-# 🌍 Epistemic Uncertainty at Regional Level in Italy 🍕
+# 🌍 Epistemic Uncertainties at Regional Level in Italy 🍕
 
 ## 📖 Overview
 
