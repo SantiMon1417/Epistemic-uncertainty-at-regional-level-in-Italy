@@ -13,9 +13,9 @@ As explained in our paper, we included the analyses by using an area sources mod
   
   b) Stack plot showing the relative contributions of different sources of uncertainty
   
-  c) Uncertainties normalized by the max σ_i
+  c) Uncertainties normalized by the max σ<sub>i</sub>
   
-  d) Uncertainties normalized by σ_Total.
+  d) Uncertainties normalized by σ<sub>Total</sub>
 
 
 
